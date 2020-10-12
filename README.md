@@ -8,3 +8,5 @@ A python discord bot that shows ant distribution from antmaps.org
  - run main.py 24/7
  
  
+# WIP
+- beautify code
